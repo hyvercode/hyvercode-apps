@@ -1,4 +1,4 @@
-package com.example.hyvercode
+package com.hyvercode.blog
 
 import io.flutter.embedding.android.FlutterActivity
 
