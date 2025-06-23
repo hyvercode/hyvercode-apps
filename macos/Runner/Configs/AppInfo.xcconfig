@@ -8,7 +8,7 @@
 PRODUCT_NAME = hyvercode
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = com.example.hyvercode
+PRODUCT_BUNDLE_IDENTIFIER = com.hyvercode.blog
 
 // The copyright displayed in application information
 PRODUCT_COPYRIGHT = Copyright © 2025 com.example. All rights reserved.
