@@ -43,3 +43,6 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+/android/key.properties
